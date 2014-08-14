@@ -6,7 +6,7 @@
 
 **Refactoring** used as a noun ("a refactoring", "many refactorings") can also refer to a particular pattern of code changes that can be applied to address specific code smells. These patterns are well-defined and well-understood, which again makes them easier to talk about and use.
 
-**Design patterns** are techniques for writing software that are generally understood to result in more maintainable code. Unlike a refactoring, a design pattern is not a *process* geared towards resolving specific code smells; it's a *template* for solving a certain class of problems. You may also hear about **antipatterns** &ndash; these are design patterns that are known to result in code smells or otherwise produce "bad code".
+**Design patterns** are techniques for writing software that are generally understood to result in more maintainable code. Unlike a refactoring, a design pattern is not a *process* geared towards resolving specific code smells; it's a *template* for solving a certain class of problems. You may also hear about **antipatterns** &ndash; these are design patterns that are known to result in "bad code".
 
 ## Basic Principles
 
