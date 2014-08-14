@@ -22,7 +22,7 @@ These principles of software development are useful in refactoring Rails apps:
 
 The guide linked above is excellent, though not specifically written with Ruby or Rails in mind. The list of [Code Smells](https://github.com/troessner/reek/wiki/Code-Smells) on the `reek` wiki is, and for a more detailed guide, check out the book [Ruby Science](https://learn.thoughtbot.com/products/13-ruby-science). Also check out [SOLID Design Principles](http://blog.rubybestpractices.com/posts/gregory/055-issue-23-solid-design.html).
 
-## Specific Patterns in Rails
+## Specific Refactorings in Rails
 
 There are a few more specific forms of the [Extract Class](http://sourcemaking.com/refactoring/extract-class) refactoring that can be performed in Rails. Some of these are outlined in this excellent "[7 Patterns](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)" blog post.
 
