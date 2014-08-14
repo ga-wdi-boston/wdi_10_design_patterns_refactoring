@@ -20,7 +20,7 @@ These principles of software development are useful in refactoring Rails apps:
 
 ## [Code Smells](http://sourcemaking.com/refactoring/bad-smells-in-code) and [Refactoring](http://sourcemaking.com/refactoring)
 
-The guide linked above is excellent, though not specifically written with Ruby or Rails in mind. The list of [Code Smells](https://github.com/troessner/reek/wiki/Code-Smells) on the `reek` wiki is, and for a more detailed guide, check out the book [Ruby Science](https://learn.thoughtbot.com/products/13-ruby-science). Also check out [SOLID Design Principles](http://blog.rubybestpractices.com/posts/gregory/055-issue-23-solid-design.html).
+The guide linked above is excellent, though not specifically written with Ruby or Rails in mind. The list of [Code Smells](https://github.com/troessner/reek/wiki/Code-Smells) on the `reek` wiki is, and for a more detailed guide, check out the book [Ruby Science](https://upcase.com/ruby-science). Also check out [SOLID Design Principles](http://blog.rubybestpractices.com/posts/gregory/055-issue-23-solid-design.html).
 
 ## Specific Refactorings in Rails
 
