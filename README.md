@@ -6,11 +6,11 @@
 
 **Refactoring** used as a noun ("a refactoring", "many refactorings") can also refer to a particular pattern of code changes that can be applied to address specific code smells. These patterns are well-defined and well-understood, which again makes them easier to talk about and use.
 
-**Design patterns** are high-level approaches to writing software that are generally understood to reduce code smells and result in more maintainable code. Rather than being specific techniques applied to fix code smells, they describe a desirable "end goal" that refactorings will often be working towards.
+**Design patterns** are techniques for writing software that are generally understood to result in more maintainable code. Unlike a refactoring, a design pattern is not a *process* geared towards resolving specific code smells; it's a *template* for solving a certain class of problems. You may also hear about **antipatterns** &ndash; these are design patterns that are known to result in code smells or otherwise produce "bad code".
 
-## Design Patterns
+## Basic Principles
 
-These design patterns and principles are useful in refactoring Rails apps:
+These principles of software development are useful in refactoring Rails apps:
 
 * [Don't Repeat Yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (DRY)
 * [Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle)
