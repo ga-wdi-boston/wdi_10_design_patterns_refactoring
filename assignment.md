@@ -1,6 +1,6 @@
 # Refactoring Assignment
 
-* Possible targets for this assignment: Project 1, Project 2, your Todo app, or your Hacker News clone.
+* Possible targets for this assignment: Project 2 or any Ajax/Angular rails API you've worked on
 * Find an area of code in need of refactoring. Identify the specific code smells it suffers from, or principles it violates.
 * Identify specific refactorings that will fix the code smell or address the violation, and execute them.
 * Make a commit and push it to GitHub. Leave a comment on that specific commit explaining all of the things you identified above (code smells, violated principles, refactorings used).
